@@ -1,0 +1,15 @@
+INF---27/04/2020 15:33:19---Doctor object is created
+INF---27/04/2020 15:33:19---Doctor object change list.
+INF---27/04/2020 15:33:19---Doctor object change list.
+INF---27/04/2020 15:33:19---Doctor object change list.
+INF---27/04/2020 15:33:19---Doctor object is created
+INF---27/04/2020 15:33:19---Doctor object change list.
+CRE---27/04/2020 15:33:19---Nurse object is created.
+INF---27/04/2020 15:33:19---Nurse object change work schedule
+CRE---27/04/2020 15:33:19---Nurse object is created.
+INF---27/04/2020 15:33:19---Nurse object change work schedule
+CRE---27/04/2020 15:33:19---Hospital object is created.
+INF---27/04/2020 15:33:19---Doctor object is added.
+INF---27/04/2020 15:33:19---Doctor object is added.
+INF---27/04/2020 15:33:19---Doctor object is created
+INF---27/04/2020 15:33:19---Doctor object is added.
