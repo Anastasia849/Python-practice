@@ -70,7 +70,7 @@ def get_schedule_from_mirea():
 
 def get_weather_from_site():
     response = requests.get(
-        'http://api.openweathermap.org/data/2.5/weather?q=moscow&appid=28585e632a4042334bb28a5c828d1ca1&units=metric',
+        'http://api.openweathermap.org/data/2.5/weather?q=moscow&appid=...&units=metric',
         params={'lang': 'ru'})
     weather = json.loads(response.text)
     with open("weather.json", "w") as write_file:
@@ -192,7 +192,7 @@ def show_schedule_for_day_on_week(group, ind):
 
 def main():
     vk_session = vk_api.VkApi(
-        token='9ed26c146ac6ca85c82caf18f9f08d78b18f1df743b875d02e6b7bd06f3c8427b7672f58efe6701eed8d2')
+        token='...')
 
     vk = vk_session.get_api()
 
